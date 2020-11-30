@@ -18,3 +18,6 @@ aproach 2:
 - The date could be used as a validation
 - Words used in the body would be used for perameters of KNN
 - The words in the title will label the news articles
+
+### TODO
+- do KNN for text data
